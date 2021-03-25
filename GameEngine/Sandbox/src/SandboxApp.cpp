@@ -10,7 +10,7 @@ public:
 
 	}
 };
-
+// all code will be managed from the engine side
 Engine::Application* Engine::CreateApplication() {
 	return new Sandobx();
 }
