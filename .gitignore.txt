@@ -6,6 +6,9 @@
 *.exe
 *.o
 *.so
+#########
+# visual Studio Files #
+*.opendb
 
 # Packages #
 ############
